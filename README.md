@@ -1,5 +1,4 @@
-# Artpage
-For Rebecca Salinas Art
+ Rebecca Salinas Art
 
 ![Alt Text](https://media.giphy.com/media/I7KvT4iE1FX7q/giphy.gif)
 
