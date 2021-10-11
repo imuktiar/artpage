@@ -1,4 +1,4 @@
-// basic copy from responsive portolio update.
+// basic copy from responsive portolio update. need update on pictures
 
 (function($) {
 
